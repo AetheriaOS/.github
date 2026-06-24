@@ -1,4 +1,4 @@
-<img width="1280" height="640" alt="aetheriaos-banner" src="https://github.com/user-attachments/assets/cc9c2d71-43af-4606-a3f9-9fcac086e1f1" />
+<img width="1280" height="640" alt="aetheriaos-banner-black" src="https://github.com/user-attachments/assets/1485738f-0183-45ed-9953-a6b1dff34dbc" />
 
 ## Credits
 * **[AOSP](https://github.com/aosp-mirror)**
