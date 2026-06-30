@@ -6,5 +6,4 @@
 * **[crDroid](https://github.com/crdroidandroid)**
 * **[CodeLinaro](https://github.com/CodeLinaro)**
 * **[Evolution X](https://github.com/evolution-x)**
-* **[crDroid](https://github.com/crdroidandroid)**
 
