@@ -5,5 +5,6 @@
 * **[LineageOS](https://github.com/LineageOS)**
 * **[crDroid](https://github.com/crdroidandroid)**
 * **[CodeLinaro](https://github.com/CodeLinaro)**
+* **[EunoiaOS](https://github.com/EunoiaOS)**
 * **[Evolution X](https://github.com/evolution-x)**
 
