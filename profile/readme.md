@@ -7,4 +7,4 @@
 * **[CodeLinaro](https://github.com/CodeLinaro)**
 * **[EunoiaOS](https://github.com/EunoiaOS)**
 * **[Evolution X](https://github.com/evolution-x)**
-* **[PixelOS](https://github.com/PixelOS-AOSP**
+* **[PixelOS](https://github.com/PixelOS-AOSP)**
