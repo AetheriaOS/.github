@@ -3,7 +3,7 @@
 ## Credits
 * **[AOSP](https://github.com/aosp-mirror)**
 * **[LineageOS](https://github.com/LineageOS)**
-* **[crDroid](https://github.com/crdroidandroid)**
+* **[CrDroid](https://github.com/crdroidandroid)**
 * **[CodeLinaro](https://github.com/CodeLinaro)**
 * **[Evolution X](https://github.com/evolution-x)**
 * **[PixelOS](https://github.com/PixelOS-AOSP)**
